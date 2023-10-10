@@ -44,7 +44,7 @@ export default function Checkout() {
   }
 
   const handleClick = () => {
-    alert("Pedido feito")
+    alert("Pedido feito!")
   }
 
   useEffect(() => {
